@@ -4,7 +4,6 @@
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="Function1.cs" />
     <Compile Remove="OrderContext.cs" />
   </ItemGroup>
   <ItemGroup>
